@@ -18,3 +18,9 @@
 <li>cpu?     - Returns current CPU usage</li>
 <li>ram?     - Returns current RAM usagee</li>
 </ul>
+<h3> How to use ? </h3>
+<ul>
+  <li>From Command Prompt <b>OR</b></li>
+  <li>Run start.bat <b>OR</b></li>
+  <li>Run start.exe </li>
+</ul>
