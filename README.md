@@ -3,7 +3,8 @@
 
 <h3>Supported OS </h3>
 <ul>
-  <li>WINDOWS</li>
+  <li>WINDOWS</li>![142975240-b5672d3d-4241-45ff-ba14-edcf5f7e66cb](https://user-images.githubusercontent.com/87514488/142975290-1b774ee0-38b2-43eb-a276-b88d182a169c.png)
+
 </ul>
 <h3>Available Commands</h3>
 <ul>
@@ -22,5 +23,6 @@
 <ul>
   <li>From Command Prompt <b>OR</b></li>
   <li>Run start.bat <b>OR</b></li>
-  <li>Run start.exe </li>
+  <li>Run start.exe <img height="8px" src="https://user-images.githubusercontent.com/87514488/142975240-b5672d3d-4241-45ff-ba14-edcf5f7e66cb.png">
+ </li>
 </ul>
