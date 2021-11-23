@@ -26,3 +26,6 @@
   <li>Run start.exe <img height="8px" src="https://user-images.githubusercontent.com/87514488/142975240-b5672d3d-4241-45ff-ba14-edcf5f7e66cb.png">
  </li>
 </ul>
+
+<h3>Preview</h3>
+<img src="https://user-images.githubusercontent.com/87514488/142975683-2ebc128f-3aad-4823-9c92-689ccc4b7c4c.png">
