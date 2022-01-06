@@ -23,7 +23,7 @@
 <ul>
   <li>From Command Prompt <b>OR</b></li>
   <li>Run start.bat <b>OR</b></li>
-  <li>Run start.exe <img height="8px" src="https://user-images.githubusercontent.com/87514488/142975240-b5672d3d-4241-45ff-ba14-edcf5f7e66cb.png">
+  <li>Run start.exe [currently disabled due to safety issues] <img height="8px" src="https://user-images.githubusercontent.com/87514488/142975240-b5672d3d-4241-45ff-ba14-edcf5f7e66cb.png">
  </li>
 </ul>
 
